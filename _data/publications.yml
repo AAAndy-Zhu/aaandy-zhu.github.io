@@ -20,13 +20,13 @@ main:
   #   conference: Findings of the Association for Computational Linguistics: EMNLP 2024.
   #   pdf: https://aclanthology.org/2024.findings-emnlp.736/
 
-  # - title: "CHECKWHY: Causal Fact Verification via Argument Structure"
-  #   authors: Jiasheng Si*, Yibo Zhao*, <strong>Yingjie Zhu</strong>, Haiyang Zhu, Wenpeng Lu, Deyu Zhou
-  #   conference_short: ACL
-  #   conference: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).
-  #   pdf: https://aclanthology.org/2024.acl-long.835/
-  #   code: https://github.com/jasenchn/checkwhy
-  #   notes: Outstanding Paper Award, Area Chair Award, Oral Presentation
+  - title: "CHECKWHY: Causal Fact Verification via Argument Structure"
+    authors: Jiasheng Si*, Yibo Zhao*, <strong>Yingjie Zhu</strong>, Haiyang Zhu, Wenpeng Lu, Deyu Zhou
+    conference_short: ACL
+    conference: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).
+    pdf: https://aclanthology.org/2024.acl-long.835/
+    code: https://github.com/jasenchn/checkwhy
+    notes: Outstanding Paper Award, Area Chair Award, Oral Presentation
 
   - title: "EXPLAIN, EDIT, GENERATE: Rationale-Sensitive Counterfactual Data Augmentation for Multi-hop Fact Verification"
     authors: <strong>Yingjie Zhu*</strong>, Jiasheng Si*, Yibo Zhao, Haiyang Zhu, Deyu Zhou, Yulan He
