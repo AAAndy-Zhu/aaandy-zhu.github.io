@@ -1,9 +1,10 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
-<p>* denotes equal contribution<p>
 
 <div class="publications">
 <ol class="bibliography">
-
+  
+<p>* denotes equal contribution<p>
+  
 {% for link in site.data.publications.main %}
 
 <li>
