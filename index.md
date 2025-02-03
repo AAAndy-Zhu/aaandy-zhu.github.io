@@ -17,7 +17,7 @@ My name is Yingjie Zhu (朱颖杰). I am a Ph.D. student at Harbin Institute of 
 - **[Feb. 2025]** Our benchmark on **visual graph understanding and reasoning** is publicly [available](https://github.com/AAAndy-Zhu/VGCure).
 - **[Dec. 2024]** Our paper about argument mining is accepted to Frontiers of Computer Science!
 - **[Sept. 2024]** Our paper about explainable multi-hop fact verification is accepted to EMNLP 2024 Findings!
-- **[Sept. 2024]** Our paper about causal fact verification is accepted to ACL 2024 and awarded the **Outstanding Paper Award** 🎉.
+- **[Aug. 2024]** Our paper about causal fact verification is accepted to ACL 2024 and awarded the **Outstanding Paper Award** 🎉.
 
 {% include_relative _includes/publications.md %}
 
