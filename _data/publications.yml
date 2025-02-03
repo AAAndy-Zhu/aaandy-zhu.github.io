@@ -19,7 +19,6 @@ main:
     conference_short: EMNLP Findings
     conference: Findings of the Association for Computational Linguistics: EMNLP 2024.
     pdf: https://aclanthology.org/2024.findings-emnlp.736/
-    notes: Poster
 
   # - title: "CHECKWHY: Causal Fact Verification via Argument Structure"
   #   authors: Jiasheng Si*, Yibo Zhao*, <strong>Yingjie Zhu</strong>, Haiyang Zhu, Wenpeng Lu, Deyu Zhou
