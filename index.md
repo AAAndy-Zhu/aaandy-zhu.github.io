@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+My name is Yingjie Zhu (朱颖杰). I am a Ph.D. student at Harbin Institute of Technology (Shenzhen), supervised by [Min Zhang](https://zhangmin-nlp-ai.github.io/) and [Xuefeng Bai](https://faculty.hitsz.edu.cn/baixuefeng). I got my B.S. degree from [Northwest A&F University](https://www.nwsuaf.edu.cn/) and M.S. degree from [Southeast University](https://www.seu.edu.cn/) supervised by [Deyu Zhou](https://palm.seu.edu.cn/zhoudeyu/Home.html).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Multimodal:** Large Vision-Language Models, Visual Question Answering
+- **Natural Language Processing:** Large Language Models, Fact Verification, Fake News Detection
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Feb. 2025]** Our benchmark on **visual graph understanding and reasoning** is publicly [available](https://github.com/AAAndy-Zhu/VGCure).
+- **[Dec. 2024]** Our paper about argument mining is accepted to Frontiers of Computer Science!
+- **[Sept. 2024]** Our paper about explainable multi-hop fact verification is accepted to EMNLP 2024 Findings!
+- **[Sept. 2024]** Our paper about causal fact verification is accepted to ACL 2024 and awarded the **Outstanding Paper Award** 🎉.
 
 {% include_relative _includes/publications.md %}
 
