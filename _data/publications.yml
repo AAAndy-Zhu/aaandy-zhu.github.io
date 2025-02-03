@@ -17,7 +17,7 @@ main:
   - title: "Denoising Rationalization for Multi-hop Fact Verification via Multi-granular Explainer"
     authors: Jiasheng Si*, <strong>Yingjie Zhu*</strong>, Wenpeng Lu, Deyu Zhou
     conference_short: EMNLP Findings
-    conference: Findings of the Association for Computational Linguistics: EMNLP.
+    conference: Findings of the Association for Computational Linguistics.
     pdf: https://aclanthology.org/2024.findings-emnlp.736/
 
   - title: "CHECKWHY: Causal Fact Verification via Argument Structure"
