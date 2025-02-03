@@ -1,6 +1,7 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications (* denotes equal contribution)</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
+<p><em>(* denotes equal contribution)</em></p>
 <ol class="bibliography">
   
 {% for link in site.data.publications.main %}
