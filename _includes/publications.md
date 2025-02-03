@@ -3,8 +3,6 @@
 <div class="publications">
 <ol class="bibliography">
   
-<p>* denotes equal contribution<p>
-  
 {% for link in site.data.publications.main %}
 
 <li>
