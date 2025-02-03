@@ -8,11 +8,11 @@ main:
     code: https://github.com/AAAndy-Zhu/VGCure
     notes: Under Reivew
 
-  # - title: "Topic-Enhanced Argument Mining via Mutual Learning"
-  #   authors: Jiasheng Si*, <strong>Yingjie Zhu*</strong>, Rui Wang, Wenpeng Lu, Yulan He, Deyu Zhou
-  #   conference_short: Front. Comput. Sci. 
-  #   conference: Frontiers of Computer Science
-  #   note: Early Accept
+  - title: "Topic-Enhanced Argument Mining via Mutual Learning"
+    authors: Jiasheng Si*, <strong>Yingjie Zhu*</strong>, Rui Wang, Wenpeng Lu, Yulan He, Deyu Zhou
+    conference_short: Front. Comput. Sci. 
+    conference: Frontiers of Computer Science
+    note: Early Accept
 
   # - title: "Denoising Rationalization for Multi-hop Fact Verification via Multi-granular Explainer"
   #   authors: Jiasheng Si*, <strong>Yingjie Zhu*</strong>, Wenpeng Lu, Deyu Zhou
