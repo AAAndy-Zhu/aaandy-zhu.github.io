@@ -1,22 +1,68 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  #   conference_short: MICCAI
+  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   code: https://github.com/MrGiovanni/ContinualLearning
+  #   bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/teaser_example_2.png
+  #   notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
+
+  - title: "Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning"
+    authors: <strong>Yingjie Zhu</strong>, Xuefeng Bai, Kehai Chen, Yang Xiang, Min Zhang
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2412.13540
+    pdf: https://arxiv.org/abs/2412.13540
+    code: https://github.com/AAAndy-Zhu/VGCure
+    notes: Under Reivew
+
+  - title: "Topic-Enhanced Argument Mining via Mutual Learning"
+    authors: Jiasheng Si*, <strong>Yingjie Zhu*</strong>, Rui Wang, Wenpeng Lu, Yulan He, Deyu Zhou
+    conference_short: Front. Comput. Sci. 
+    conference: Frontiers of Computer Science
+    note: Early Accept
+
+  - title: "Denoising Rationalization for Multi-hop Fact Verification via Multi-granular Explainer"
+    authors: Jiasheng Si*, <strong>Yingjie Zhu*</strong>, Wenpeng Lu, Deyu Zhou
+    conference_short: EMNLP Findings
+    conference: Findings of the Association for Computational Linguistics: EMNLP 2024
+    pdf: https://aclanthology.org/2024.findings-emnlp.736/
+
+  - title: "CHECKWHY: Causal Fact Verification via Argument Structure"
+    authors: Jiasheng Si*, Yibo Zhao*, <strong>Yingjie Zhu</strong>, Haiyang Zhu, Wenpeng Lu, Deyu Zhou
+    conference_short: ACL
+    conference: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+    pdf: https://aclanthology.org/2024.acl-long.835/
+    code: https://github.com/jasenchn/checkwhy
+    note: Outstanding Paper Award, Area Chair Award, Oral Presentation
+
+  - title: "EXPLAIN, EDIT, GENERATE: Rationale-Sensitive Counterfactual Data Augmentation for Multi-hop Fact Verification"
+    authors: <strong>Yingjie Zhu*</strong>, Jiasheng Si*, Yibo Zhao, Haiyang Zhu, Deyu Zhou, Yulan He
+    conference_short: EMNLP
+    conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing
+    pdf: https://aclanthology.org/2023.emnlp-main.826/
+    code: https://github.com/AAAndy-Zhu/RACE
+    note: Oral Presentation
+
+  - title: "Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning"
+    authors: Jiasheng Si, <strong>Yingjie Zhu</strong>, Deyu Zhou
+    conference_short: AAAI
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/26591
+    note: Oral Presentation
+
+
+  
