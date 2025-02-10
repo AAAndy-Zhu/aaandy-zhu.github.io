@@ -26,7 +26,7 @@ main:
     conference: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. <strong>(ACL 2024)</strong>
     pdf: https://aclanthology.org/2024.acl-long.835/
     code: https://github.com/jasenchn/checkwhy
-    notes: Outstanding Paper Award, Area Chair Award, Oral Presentation
+    notes: Outstanding Paper Award, SAC Award, Oral Presentation
 
   - title: "EXPLAIN, EDIT, GENERATE: Rationale-Sensitive Counterfactual Data Augmentation for Multi-hop Fact Verification"
     authors: <strong>Yingjie Zhu*</strong>, Jiasheng Si*, Yibo Zhao, Haiyang Zhu, Deyu Zhou, Yulan He
