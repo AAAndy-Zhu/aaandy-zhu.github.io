@@ -13,7 +13,13 @@ main:
     conference_short: ACL Findings
     conference: Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics. <strong>(ACL Findings)</strong>
     pdf: https://arxiv.org/abs/2503.04619
-    image: assets/img/arxiv-VGCure.png
+    image: assets/img/ACL2025-Findings.png
+
+  - title: "ALSA: Context-Sensitive Prompt Privacy Preservation in Large Language Models"
+    authors: Hongru Ma, Wenpeng Lu, Yanjie Liang, Tianyi Wang, Qi Zhang, <strong>Yingjie Zhu</strong>, Jiasheng Si
+    conference_short: KDD
+    conference: 31st SIGKDD Conference on Knowledge Discovery and Data Mining - Research Track <strong>(KDD 2025)</strong>
+    image: assets/img/KDD-2025.png   
 
   - title: "Topic-Enhanced Argument Mining via Mutual Learning"
     authors: Jiasheng Si*, <strong>Yingjie Zhu*</strong>, Rui Wang, Wenpeng Lu, Yulan He, Deyu Zhou
