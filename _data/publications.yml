@@ -2,12 +2,18 @@ main:
 
   - title: "Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning"
     authors: <strong>Yingjie Zhu</strong>, Xuefeng Bai, Kehai Chen, Yang Xiang, Min Zhang
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2412.13540
+    conference_short: ACL
+    conference: Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics. <strong>(ACL 2025)</strong>
     pdf: https://arxiv.org/abs/2412.13540
     code: https://github.com/AAAndy-Zhu/VGCure
     image: assets/img/arxiv-VGCure.png
-    notes: Under Review
+
+  - title: "SynGraph: A Dynamic Graph-LLM Synthesis Framework for Sparse Streaming User Sentiment Modeling"
+    authors: Xin Zhang, Qiyu Wei, <strong>Yingjie Zhu</strong>, Linhai Zhang, Deyu Zhou, Sophia Ananiadou
+    conference_short: ACL Findings
+    conference: Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics. <strong>(ACL Findings)</strong>
+    pdf: https://arxiv.org/abs/2503.04619
+    image: assets/img/arxiv-VGCure.png
 
   - title: "Topic-Enhanced Argument Mining via Mutual Learning"
     authors: Jiasheng Si*, <strong>Yingjie Zhu*</strong>, Rui Wang, Wenpeng Lu, Yulan He, Deyu Zhou
