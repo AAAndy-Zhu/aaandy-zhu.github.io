@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-My name is Yingjie Zhu (朱颖杰). I am a Ph.D. student at Harbin Institute of Technology (Shenzhen), supervised by [Min Zhang](https://zhangmin-nlp-ai.github.io/) and [Xuefeng Bai](https://faculty.hitsz.edu.cn/baixuefeng). I got my B.S. degree from [Northwest A&F University](https://www.nwsuaf.edu.cn/) and M.S. degree from [Southeast University](https://www.seu.edu.cn/) supervised by [Deyu Zhou](https://palm.seu.edu.cn/zhoudeyu/Home.html).
+My name is Yingjie Zhu (朱颖杰). I am a Ph.D. student at Harbin Institute of Technology (Shenzhen), supervised by [Min Zhang](https://zhangmin-nlp-ai.github.io/) and [Xuefeng Bai](https://faculty.hitsz.edu.cn/baixuefeng). I got my B.S. degree from [Northwest A&F University](https://www.nwsuaf.edu.cn/) in 2021 and M.S. degree from [Southeast University](https://www.seu.edu.cn/) supervised by [Deyu Zhou](https://palm.seu.edu.cn/zhoudeyu/Home.html) in 2024.
 
 ## Research Interests
 
