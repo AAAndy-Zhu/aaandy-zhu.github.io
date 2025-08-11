@@ -4,7 +4,7 @@ main:
     authors: <strong>Yingjie Zhu</strong>, Xuefeng Bai, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang
     conference_short: ACL
     conference: Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics. <strong>(ACL 2025)</strong>
-    pdf: https://arxiv.org/abs/2412.13540
+    pdf: https://aclanthology.org/2025.acl-long.1482/
     code: https://github.com/AAAndy-Zhu/VGCure
     image: assets/img/arxiv-VGCure.png
 
@@ -12,13 +12,14 @@ main:
     authors: Xin Zhang, Qiyu Wei, <strong>Yingjie Zhu</strong>, Linhai Zhang, Deyu Zhou, Sophia Ananiadou
     conference_short: ACL Findings
     conference: Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics. <strong>(ACL Findings)</strong>
-    pdf: https://arxiv.org/abs/2503.04619
+    pdf: https://aclanthology.org/2025.findings-acl.840/
     image: assets/img/ACL2025-Findings.png
 
   - title: "ALSA: Context-Sensitive Prompt Privacy Preservation in Large Language Models"
     authors: Hongru Ma, Wenpeng Lu, Yanjie Liang, Tianyi Wang, Qi Zhang, <strong>Yingjie Zhu</strong>, Jiasheng Si
     conference_short: KDD
     conference: 31st SIGKDD Conference on Knowledge Discovery and Data Mining - Research Track <strong>(KDD 2025)</strong>
+    pdf: https://dl.acm.org/doi/abs/10.1145/3711896.3736840
     image: assets/img/KDD-2025.png   
 
   - title: "Topic-Enhanced Argument Mining via Mutual Learning"
