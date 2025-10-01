@@ -1,5 +1,18 @@
 main:
 
+  - title: "THCM-CAL: Temporal-Hierarchical Causal Modelling with Conformal Calibration for Clinical Risk Prediction"
+    authors: Xin Zhang, Qiyu Wei, <strong>Yingjie Zhu</strong>, Fanyi Wu, Sophia Ananiadou
+    conference_short: EMNLP Findings
+    conference: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing. <strong>(EMNLP 2025 Findings)</strong>
+    pdf: https://arxiv.org/abs/2506.17844
+    image: assets/img/EMNLP-2025.png
+
+  - title: "TianWen: A Comprehensive Benchmark for Evaluating LLMs in Chinese Classical Poetry Understanding and Reasoning"
+    authors: Zhenwu Pei, Rongbo Chen, Xuefeng Bai, Kehai Chen, <strong>Yingjie Zhu</strong>, Andong Chen, and Min Zhang
+    conference_short: NLPCC
+    conference: The 14th CCF International Conference on Natural Language Processing and Chinese Computing <strong>(NLPCC 2025)</strong>
+    image: assets/img/NLPCC-25.png
+
   - title: "Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning"
     authors: <strong>Yingjie Zhu</strong>, Xuefeng Bai, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang
     conference_short: ACL
@@ -37,9 +50,9 @@ main:
     image: assets/img/EMNLP-2024.png
     pdf: https://aclanthology.org/2024.findings-emnlp.736/
 
-  - title: "🏆CHECKWHY: Causal Fact Verification via Argument Structure"
+  - title: "CHECKWHY: Causal Fact Verification via Argument Structure"
     authors: Jiasheng Si*, Yibo Zhao*, <strong>Yingjie Zhu</strong>, Haiyang Zhu, Wenpeng Lu, Deyu Zhou
-    conference_short: ACL
+    conference_short: ACL🏆
     conference: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. <strong>(ACL 2024)</strong>
     pdf: https://aclanthology.org/2024.acl-long.835/
     code: https://github.com/jasenchn/checkwhy
