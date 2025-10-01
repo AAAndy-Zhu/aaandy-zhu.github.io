@@ -5,7 +5,9 @@ main:
     conference_short: Preprint
     conference: arXiv:2509.21984 <strong>(Preprint)</strong>
     pdf: https://arxiv.org/abs/2509.21984
+    code: https://github.com/AAAndy-Zhu/BaPA
     image: assets/img/arxiv-BaPA.png
+    notes: Under Review
 
   - title: "THCM-CAL: Temporal-Hierarchical Causal Modelling with Conformal Calibration for Clinical Risk Prediction"
     authors: Xin Zhang, Qiyu Wei, <strong>Yingjie Zhu</strong>, Fanyi Wu, Sophia Ananiadou
@@ -18,6 +20,7 @@ main:
     authors: Zhenwu Pei, Rongbo Chen, Xuefeng Bai, Kehai Chen, <strong>Yingjie Zhu</strong>, Andong Chen, and Min Zhang
     conference_short: NLPCC
     conference: The 14th CCF International Conference on Natural Language Processing and Chinese Computing <strong>(NLPCC 2025)</strong>
+    code: https://github.com/pzwstudy/TianWen-benchmark
     image: assets/img/NLPCC-25.png
     notes: Oral Presentation
 
