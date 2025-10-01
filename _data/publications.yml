@@ -1,5 +1,12 @@
 main:
 
+  - title: "From Bias to Balance: Exploring and Mitigating Spatial Bias in LVLMs"
+    authors: <strong>Yingjie Zhu</strong>, Xuefeng Bai, Kehai Chen, Yang Xiang, Weili Guan, Jun Yu, Min Zhang
+    conference_short: Preprint
+    conference: arXiv:2509.21984 <strong>(Preprint)</strong>
+    pdf: https://arxiv.org/abs/2509.21984
+    image: assets/img/arxiv-BaPA.png
+
   - title: "THCM-CAL: Temporal-Hierarchical Causal Modelling with Conformal Calibration for Clinical Risk Prediction"
     authors: Xin Zhang, Qiyu Wei, <strong>Yingjie Zhu</strong>, Fanyi Wu, Sophia Ananiadou
     conference_short: EMNLP Findings
