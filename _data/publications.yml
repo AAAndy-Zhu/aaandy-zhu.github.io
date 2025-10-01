@@ -26,7 +26,7 @@ main:
     authors: Jiasheng Si*, <strong>Yingjie Zhu*</strong>, Rui Wang, Wenpeng Lu, Yulan He, Deyu Zhou
     conference_short: Front. Comput. Sci. 
     conference: Frontiers of Computer Science
-    pdf: https://journal.hep.com.cn/fcs/EN/abstract/abstract51799.shtml
+    pdf: https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-40460-y
     image: assets/img/FCS-2024.png
     notes: Early Accept
 
@@ -37,7 +37,7 @@ main:
     image: assets/img/EMNLP-2024.png
     pdf: https://aclanthology.org/2024.findings-emnlp.736/
 
-  - title: "CHECKWHY: Causal Fact Verification via Argument Structure"
+  - title: "🏆CHECKWHY: Causal Fact Verification via Argument Structure"
     authors: Jiasheng Si*, Yibo Zhao*, <strong>Yingjie Zhu</strong>, Haiyang Zhu, Wenpeng Lu, Deyu Zhou
     conference_short: ACL
     conference: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. <strong>(ACL 2024)</strong>
