@@ -19,6 +19,7 @@ main:
     conference_short: NLPCC
     conference: The 14th CCF International Conference on Natural Language Processing and Chinese Computing <strong>(NLPCC 2025)</strong>
     image: assets/img/NLPCC-25.png
+    notes: Oral Presentation
 
   - title: "Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning"
     authors: <strong>Yingjie Zhu</strong>, Xuefeng Bai, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang
