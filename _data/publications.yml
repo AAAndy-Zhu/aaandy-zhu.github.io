@@ -50,9 +50,8 @@ main:
     authors: Jiasheng Si*, <strong>Yingjie Zhu*</strong>, Rui Wang, Wenpeng Lu, Yulan He, Deyu Zhou
     conference_short: Front. Comput. Sci. 
     conference: Frontiers of Computer Science
-    pdf: https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-40460-y
+    pdf: https://link.springer.com/article/10.1007/s11704-025-40460-y
     image: assets/img/FCS-2024.png
-    notes: Early Accept
 
   - title: "Denoising Rationalization for Multi-hop Fact Verification via Multi-granular Explainer"
     authors: Jiasheng Si*, <strong>Yingjie Zhu*</strong>, Wenpeng Lu, Deyu Zhou
