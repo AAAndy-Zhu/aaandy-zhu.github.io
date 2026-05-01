@@ -13,7 +13,7 @@ My name is Yingjie Zhu (朱颖杰). I am a Ph.D. student at Harbin Institute of 
 
 
 ## News
-
+- **[May 2026]** Two papers are accepted to **ICML 2026**, one **spotlight🌟** and one **poster**.
 - **[Aug 2025]** One paper is accepted to **EMNLP 2025 Findings**.
 - **[July 2025]** One paper is accepted to **NLPCC 2025**.
 - **[May 2025]** Two papers are accepted to **ACL 2025**, one **main** paper and one **findings**.
