@@ -1,13 +1,27 @@
 main:
 
-  - title: "From Bias to Balance: Exploring and Mitigating Spatial Bias in LVLMs"
-    authors: <strong>Yingjie Zhu</strong>, Xuefeng Bai, Kehai Chen, Yang Xiang, Weili Guan, Jun Yu, Min Zhang
+  - title: "Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance"
+    authors: <strong>Yingjie Zhu</strong>, Xuefeng Bai, Kehai Chen, Yang Xiang, Youcheng Pan, Xiaoqiang Zhou, Min Zhang
+    conference_short: ICML
+    conference: Forty-third International Conference on Machine Learning. <strong>(ICML 2026)</strong>
+    pdf: https://arxiv.org/abs/2602.03491
+    code: https://github.com/AAAndy-Zhu/TableVLM
+    image: assets/img/ICML2026-TableVLM.png
+    notes: Spotlight (Top 2.2%)
+
+  - title: "ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models"
+    authors: Jiahui Guang, <strong>Yingjie Zhu</strong>, Haiyan Wang, Cuiyun Gao, Jing Li, Di Shao, Zhaoquan Gu
+    conference_short: ICML
+    conference: Forty-third International Conference on Machine Learning. <strong>(ICML 2026)</strong>
+    image: assets/img/ICML2026-ASRU.png
+  
+  - title: "Beyond the Vision Encoder: Identifying and Mitigating Spatial Bias in Large Vision-Language Models"
+    authors: <strong>Yingjie Zhu</strong>, Xuefeng Bai, Kehai Chen, Yang Xiang, Youcheng Pan, Yongshuai Hou, Weili Guan, Jun Yu, Min Zhang
     conference_short: Preprint
     conference: arXiv:2509.21984 <strong>(Preprint)</strong>
     pdf: https://arxiv.org/abs/2509.21984
-    code: https://github.com/AAAndy-Zhu/BaPA
+    code: https://github.com/AAAndy-Zhu/AGCI
     image: assets/img/arxiv-BaPA.png
-    notes: Under Review
 
   - title: "THCM-CAL: Temporal-Hierarchical Causal Modelling with Conformal Calibration for Clinical Risk Prediction"
     authors: Xin Zhang, Qiyu Wei, <strong>Yingjie Zhu</strong>, Fanyi Wu, Sophia Ananiadou
